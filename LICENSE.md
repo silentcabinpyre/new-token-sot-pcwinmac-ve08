@@ -1,4 +1,4 @@
-# 
+# 自定义 new token sniper bot 脚本 Mac OS版 | 免费 new token sniper bot 脚本 PC Windows版。集成 数据解析 和 保证金管理，跨平台性能最大化。
 
 
 
